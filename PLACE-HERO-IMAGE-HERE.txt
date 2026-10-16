@@ -1,0 +1,1 @@
+Place a licensed moving-related hero image here named business-bay-moving-hero.jpg. Then the image path in index.html will resolve.
